@@ -27,4 +27,3 @@ export default defineConfig([
     },
     ...pluginQuery.configs["flat/recommended"]
 ]);
-
